@@ -17,7 +17,7 @@ module.exports = class PurgeCommand extends Command {
 		let deleteCount = 0;
 		try {
 			deleteCount = parseInt(args[1], 10);
-		}catch(err) {
+		}catch(error) {
 			return message.reply('Please provide the number of messages to delete. (max 100)');
 		}
         
