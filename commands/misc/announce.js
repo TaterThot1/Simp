@@ -34,7 +34,8 @@ module.exports = class AnnounceCommand extends Command {
 	.setDescription(`${say}`)
 	.setTimestamp()
 	.setFooter('Thank You');
+    await Ch.send(announce);
     await Ch.send('@everyone')
-    await Ch.send(announce)
+
 	}
 };
