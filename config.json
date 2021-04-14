@@ -6,10 +6,8 @@
 "WarnLogName" : "Channel_Name",
 "AnnounceChannel" : "Channel_Name",
 "WelcomeChannel" : "Channel_Name",
-"roleName1" : "Muted",
-"roleName2" : "Main_Role_1",
-"roleName3" : "Main_Role_2",
-"roleName4" : "Main_Role_3",
+"roleName1" : "Mute_Role_Name",
+"roleName2" : "Main_Role_Name",
 "staffRole" : "Staff_Role",
 "Your_ID" : "Your_Account_ID",
 "Status" : "Moderators"
