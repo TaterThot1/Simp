@@ -1,6 +1,7 @@
 {
 "prefix": "%",
 "token": "Bot_Token",
+"Your_ID" : "Your_Account_ID",
 "MainLogName" : "Channel_Name",
 "BanLogName" : "Channel_Name",
 "WarnLogName" : "Channel_Name",
@@ -8,7 +9,6 @@
 "WelcomeChannel" : "Channel_Name",
 "roleName1" : "Mute_Role_Name",
 "roleName2" : "Main_Role_Name",
-"staffRole" : "Staff_Role",
-"Your_ID" : "Your_Account_ID",
+"staffRole" : "Staff_Role_Name",
 "Status" : "Moderators"
 }
