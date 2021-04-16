@@ -13,7 +13,7 @@ __________________
   ###### Version_1.0.1
   
   ##### Updated_Files
-   <purge.js> <warn.js> <serverinfo.js> <announce.js>
+   <purge.js> <warn.js> <serverinfo.js> <announce.js>   
    
 __________________
   #### April 14, 2021
@@ -30,13 +30,13 @@ __________________
   
   ##### Updated_Files
    <README.md> <config.json>
-
+   
 __________________
   #### April 16, 2021
 
   ###### Version_1.0.3
   
   ##### Updated_Files
-   <LICENSE>
-
+   License agreement
+  
 __________________
